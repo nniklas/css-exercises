@@ -1,0 +1,8 @@
+/* .container can be replaced with div
+to mix type and class selectors */
+.container .text{
+    background-color: #ffff00;
+    color: hwb(0 0% 0%);
+    font-size: 20px;
+    text-align: center;
+}
