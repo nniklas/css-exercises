@@ -1,0 +1,18 @@
+/*common style for buttons 1 &2 */
+.b1.b2 {
+    font-size: 28px;
+    font-family: Helvetica,
+    "Times New Roman",
+     sans-serif;
+}
+
+/* unique style for button 1 */
+.b1 {
+    background-color: hsl(0, 0%, 0%);
+    color: #ffffff;
+}
+
+/* unique style for button 2 */
+.b2 {
+    background-color: hwb(60 0% 0%);
+}
