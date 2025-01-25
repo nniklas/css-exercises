@@ -1,11 +1,19 @@
 /* class selector for odd elements */
-.odd{
-    background-color: rgb(195, 150, 150);
+.odd {
+    background-color: rgb(239, 183, 183);
     font-family: Verdana, "DejaVu Sans", sans-serif;
-
+}
 /* id for second */
-
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
 /* id for third */
-
+.font-size {
+    font-size: 24px;
+}
 /* id for fourth */
-
+#fourth {
+    background-color: #90ee90;
+    font-weight: bold;
+}
